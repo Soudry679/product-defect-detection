@@ -16,7 +16,7 @@ Predict whether a manufactured product is **defective** (`Yes`/`No`) based on pr
 - `train_data.csv` – Labeled dataset for training and evaluation  
 - `test_data.csv` – Unlabeled data for final predictions  
 - `predictions.csv` – Output predictions using the final model  
-- `main.py` or `project.ipynb` – Core code, structured into logical blocks  
+- `ML_project_final.ipynb` – Core code, structured into logical blocks  
 
 ---
 
